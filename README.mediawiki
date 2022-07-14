@@ -2,8 +2,7 @@
 This is a BluehillBot source code for the tasks which is not standard Pywikibot module.
 
 == Which bot is running which things? ==
-<!--* BluehillBot runs @ directory.-->
-* BluehillBot B runs b directory.
+* BluehillBot B runs removeUC.py and community_portal_list.py.
 
 == LICENSE ==
 The license is basically MIT, but what I didn't make is different.
