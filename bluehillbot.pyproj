@@ -6,7 +6,7 @@
     <ProjectGuid>{89440b92-0460-4319-93a9-8d9e1d8eab29}</ProjectGuid>
     <ProjectHome />
     <StartupFile />
-    <SearchPath>..\..\wiki\core_stable\</SearchPath>
+    <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
