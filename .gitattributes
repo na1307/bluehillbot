@@ -1,3 +1,1 @@
 * eol=lf
-*.sln       merge=binary eol=crlf
-*.pyproj    merge=binary eol=crlf
